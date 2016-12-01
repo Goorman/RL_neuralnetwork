@@ -1,8 +1,8 @@
-# RL_neuralnetwork
+# Reinforcement Learning deep q-network example
 
 Implemented Deep q-network with Experience buffer, double q-network and dueling q-network on LunarLanding-v2 environment from OpenAI gym framework.
 
-papers:
+Important papers:
 
 Mnih V. et al. Playing atari with deep reinforcement learning //arXiv preprint arXiv:1312.5602. – 2013.
 Van Hasselt H., Guez A., Silver D. Deep reinforcement learning with double Q-learning //CoRR, abs/1509.06461. – 2015.
